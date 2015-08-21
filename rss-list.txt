@@ -1,0 +1,4 @@
+http://feeds.reuters.com/reuters/businessNews
+http://finance.yahoo.com/news/rssindex/
+http://www.ft.com/rss/global-economy
+http://www.ft.com/rss/personal-finance
